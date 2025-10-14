@@ -44,16 +44,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div>
-<a href="https://github.com/leandrofariasfl">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrofariasfl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-###
