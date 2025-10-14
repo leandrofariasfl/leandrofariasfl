@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Sou estudante de Sistemas de Informação<br><br>-</p>
+<p align="left">Sou estudante de Sistemas de Informação<br><br></p>
 
 ###
 
