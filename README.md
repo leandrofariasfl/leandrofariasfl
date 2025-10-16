@@ -11,9 +11,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandrofariasfl&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=true" height="80" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrofariasfl&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="80" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=leandrofariasfl&locale=pt-br&mode=daily&theme=aura&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=leandrofariasfl&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=true" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrofariasfl&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="120" alt="languages graph"  />
 </div>
 
 ###
@@ -43,21 +42,7 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/leandrofariasfl/leandrofariasfl/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
 
